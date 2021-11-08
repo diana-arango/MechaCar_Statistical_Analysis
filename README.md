@@ -2,6 +2,7 @@
 Statistics &amp; R
 
 ## Deliverable 1: Linear Regression to Predict MPG
+https://github.com/diana-arango/MechaCar_Statistical_Analysis/blob/main/pictures/Deliverable%201%20Linear%20Regression%20to%20Predict%20MPGpng.png
 
 According to our results, vehicle length and ground distance provided a non-random amount of variance to the mgt values which means that they do not have a significant impact of the prototype performance. The intercept is significant which make me assume that the significant features such as vehicle’s length and ground clearance may need scaling or transforming to help predict the prototypes performance 
 
@@ -10,10 +11,16 @@ The slope of the linear model is not zero because the p-value of our linear regr
 Despite the linear model predicted the mpg of MechaCar prototypes effectively, I suggest that move variables should be considered to predict the prototype performance on a higher and more accurate level 
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis 
+https://github.com/diana-arango/MechaCar_Statistical_Analysis/blob/main/pictures/Deliverable%202%20Lot%20Summary.png
+https://github.com/diana-arango/MechaCar_Statistical_Analysis/blob/main/pictures/Deliverable%202%20PSI%20Summary.png
 
 The variance of the coils is 62.29 PSI, which is within the 100 PSI variance requirement. Lot 1 and Lot 2 are also within the 100 PSI variance requirement: with variances of 0.98 and 7.47 respectively. However, Lot 3 showed a much larger variance in performance and consistency, with a variance of 170.29. Lot 3 that is disproportionately causing the variance at the full lot level.
 
 ## Deliverable 3: T-Tests on Suspension Coils 
+https://github.com/diana-arango/MechaCar_Statistical_Analysis/blob/main/pictures/Deliverable%203%20T-test%20on%20suspension%20coils.png
+https://github.com/diana-arango/MechaCar_Statistical_Analysis/blob/main/pictures/Deliverable%203%20lot%201.png
+https://github.com/diana-arango/MechaCar_Statistical_Analysis/blob/main/pictures/Deliverable%203%20Lot%202.png
+https://github.com/diana-arango/MechaCar_Statistical_Analysis/blob/main/pictures/Deliverable%203.%20Lot%203.png
 
 The true mean of the sample is 1498.78. The p-Value of 0.06, is higher than the common significance level of 0.05. there is NOT enough evidence to support rejecting the null hypothesis. The mean of all three of these manufacturing lots is statistically like the presumed population mean of 1500
 
